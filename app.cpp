@@ -3,4 +3,5 @@ using namespace std;
 int main ()
 {
 	cout << "MAS";
+	cout << "masmosa";
 }
