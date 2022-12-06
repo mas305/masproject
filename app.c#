@@ -1,0 +1,9 @@
+using System;
+class Program {
+
+  public static void Main (string[] args) {
+    fun(25) ;
+    Console.WriteLine() ;
+    Console.WriteLine(fun2(5,6)) ;
+  }
+}
